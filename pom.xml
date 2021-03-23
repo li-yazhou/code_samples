@@ -15,6 +15,11 @@
     <module>spring_ioc</module>
     <module>commons</module>
     <module>reflections</module>
+    <module>hutool</module>
+    <module>disruptor</module>
+    <module>jodd</module>
+    <module>jetty</module>
+    <module>spring_transaction</module>
   </modules>
 
   <name>code_samples</name>
