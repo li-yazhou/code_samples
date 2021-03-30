@@ -1,13 +1,11 @@
-package rpc.client;
+package rpc.v1.client;
 
-import rpc.common.Product;
-import rpc.common.ProductService;
-import rpc.common.User;
-import rpc.common.UserService;
-import rpc.server.ProductServiceImpl;
-import rpc.server.UserServiceImpl;
-
-import java.io.Serializable;
+import rpc.v1.common.Product;
+import rpc.v1.common.ProductService;
+import rpc.v1.common.User;
+import rpc.v1.common.UserService;
+import rpc.v1.server.ProductServiceImpl;
+import rpc.v1.server.UserServiceImpl;
 
 /**
  * @desc   TODO

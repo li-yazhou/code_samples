@@ -1,4 +1,4 @@
-package rpc.client;
+package rpc.v1.client;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

@@ -1,4 +1,4 @@
-package rpc.hessian;
+package rpc.v1.hessian;
 
 import com.caucho.hessian.io.Hessian2Input;
 import com.caucho.hessian.io.Hessian2Output;

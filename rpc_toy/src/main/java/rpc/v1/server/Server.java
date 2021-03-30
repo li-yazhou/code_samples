@@ -1,4 +1,4 @@
-package rpc.server;
+package rpc.v1.server;
 
 import java.io.*;
 import java.lang.reflect.InvocationTargetException;

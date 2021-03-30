@@ -1,7 +1,7 @@
-package rpc.server;
+package rpc.v1.server;
 
-import rpc.common.Product;
-import rpc.common.ProductService;
+import rpc.v1.common.Product;
+import rpc.v1.common.ProductService;
 
 /**
  * @desc   TODO

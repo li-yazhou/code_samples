@@ -1,7 +1,7 @@
-package rpc.server;
+package rpc.v1.server;
 
-import rpc.common.User;
-import rpc.common.UserService;
+import rpc.v1.common.User;
+import rpc.v1.common.UserService;
 
 /**
  * @desc   TODO

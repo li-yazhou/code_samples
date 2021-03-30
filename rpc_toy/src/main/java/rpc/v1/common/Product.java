@@ -1,4 +1,4 @@
-package rpc.common;
+package rpc.v1.common;
 
 import java.io.Serializable;
 
@@ -6,20 +6,20 @@ import java.io.Serializable;
  * @desc   TODO
  * @author liyazhou
  */
-public class User implements Serializable {
+public class Product implements Serializable {
     Integer id;
     String name;
 
-    long serialVersionUID = 10001;
+    long serialVersionUID = 20001;
 
-    public User(Integer id, String name) {
+    public Product(Integer id, String name) {
         this.id = id;
         this.name = name;
     }
 
     @Override
     public String toString() {
-        return "User{" +
+        return "Product{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
